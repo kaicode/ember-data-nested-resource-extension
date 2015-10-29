@@ -1,6 +1,6 @@
 Note
 ----
-This repository is no longer maintained. It may or may still be useful. Here is an alternative suggestion - https://github.com/amiel/ember-data-url-templates
+This repository is no longer maintained. It may or may not still be useful. Here is an alternative suggestion - https://github.com/amiel/ember-data-url-templates
 
 
 Ember Data Nested REST Resource Extension
